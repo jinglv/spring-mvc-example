@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * @author jinglv
- * @date 2020-04-06 19:02
+ * @date 2020/04/06
  */
 @Service
 public class HelloService {

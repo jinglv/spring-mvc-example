@@ -7,7 +7,7 @@
     
     <context:component-scan base-package="com.spring.mvc" use-default-filters="false">
         <!--默认不扫描包，但包含以Controller注解的类-->
-        <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
+        <context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
     </context:component-scan>
 
     <mvc:annotation-driven/>
