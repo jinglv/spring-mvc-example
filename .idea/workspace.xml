@@ -7,24 +7,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59bdea67-ada9-4ce1-a680-caef8fe9cc85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/spring-mvc-example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/Mvc流程.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/spring mvc流程.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/mvc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/mvc/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/mvc/service/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/mvc/service/HelloService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/spring/mvc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/spring/mvc/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT/WEB-INF/classes/com/spring/mvc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT/WEB-INF/classes/com/spring/mvc/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT/WEB-INF/classes/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-example-1.0-SNAPSHOT/WEB-INF/classes/spring-servlet.xml" afterDir="false" />
-    </list>
+    <list default="true" id="59bdea67-ada9-4ce1-a680-caef8fe9cc85" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,11 +168,24 @@
       <workItem from="1586169161462" duration="2207000" />
       <workItem from="1596694750595" duration="5993000" />
       <workItem from="1596781620890" duration="347000" />
+      <workItem from="1597019036090" duration="45000" />
     </task>
+    <task id="LOCAL-00001" summary="chore：添加学习笔记">
+      <created>1597019067552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597019067552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore：添加学习笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore：添加学习笔记" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="315" key="#Tomcat_Server" timestamp="1596694843365">
@@ -202,6 +198,10 @@
     <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596695039994" />
     <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.816/1440.-102.1920.1057@0.23.1440.816" timestamp="1596702773085" />
     <state x="184" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1596767421333" />
+    <state x="285" y="23" key="CommitChangelistDialog2" timestamp="1597019067277">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="285" y="23" key="CommitChangelistDialog2/0.23.1440.820@0.23.1440.820" timestamp="1597019067277" />
     <state width="956" height="313" key="GridCell.Tab.0.bottom" timestamp="1596771984733">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -291,6 +291,10 @@
     </state>
     <state x="229" y="69" key="SettingsEditor/0.23.1440.814/1440.-102.1920.1057@0.23.1440.814" timestamp="1596694775863" />
     <state x="229" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816/1440.-102.1920.1057@0.23.1440.816" timestamp="1596703391321" />
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2" timestamp="1597019069025">
+      <screen x="0" y="23" width="1440" height="820" />
+    </state>
+    <state x="320" y="171" key="Vcs.Push.Dialog.v2/0.23.1440.820@0.23.1440.820" timestamp="1597019069025" />
     <state x="385" y="163" width="670" height="676" key="search.everywhere.popup" timestamp="1596703264290">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
